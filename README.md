@@ -8,21 +8,18 @@ Códigos referentes as listas de exercícios da disciplina de Programação - CC
 
 **1. Noções de algoritmos, programas e linguagens de programação de alto nível** 
 
-  1.1. Definição de algoritmos e tipos de representação. 
-  
-    1.1.1.Descrição Narrativa, Fluxograma e Pseudocódigo/Português Estruturado/Portugol.  
-    
+  1.1. Definição de algoritmos e tipos de representação.  
+  1.1.1.Descrição Narrativa, Fluxograma e Pseudocódigo/Português Estruturado/Portugol.   
   1.2. Linguagem de máquina e de montagem. 
-  
   1.3. Linguagem de programação de alto nível. 
 
 **2. Paradigmas de programação**
 
   2.1. Programação Imperativa (Programação Estruturada).
-  
   2.2. Outros paradigmas: Orientado a Objetos, Funcional e Lógico. 
 
-**3. Conceitos e Elementos básicos da Programação 3.1. Tipos de Dados (simples e compostos)** 
+**3. Conceitos e Elementos básicos da Programação**
+  3.1. Tipos de Dados (simples e compostos)
   3.2. Variáveis e Constantes. 
     3.2.1.Conceitos, declaração e inicialização. 
     3.2.2.Atribuição de valores. 
