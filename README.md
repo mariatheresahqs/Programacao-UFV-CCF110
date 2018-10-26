@@ -2,6 +2,15 @@
 
 Códigos referentes as listas de exercícios da disciplina de Programação - CCF110 (Universidade Federal de Viçosa-UFV). 
 
+##### OBJETIVOS
+* Conhecer noções de algoritmos, programas e linguagens de programação de alto nível.
+* Compreender o paradigma de programação estruturado, assim como manipular tipos de dados, variáveis e
+constantes.
+* Implementar em uma linguagem de programação as estruturas de controle e repetição, variáveis compostas
+homogêneas (vetores e matrizes) e heterogêneas (registros).
+* Conhecer a importância da modularização, documentação e testes de programas.
+* Manipular entrada e saída de informações armazenadas em arquivos e compreender o conceito de recursividade.
+
 
 ### CONTEÚDO PROGRAMÁTICO
 ------
