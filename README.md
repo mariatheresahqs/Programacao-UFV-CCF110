@@ -24,18 +24,19 @@ homogêneas (vetores e matrizes) e heterogêneas (registros).
 
 **2. Paradigmas de programação**
 
-  2.1. Programação Imperativa (Programação Estruturada).
+  2.1. Programação Imperativa (Programação Estruturada).  
   2.2. Outros paradigmas: Orientado a Objetos, Funcional e Lógico. 
 
 **3. Conceitos e Elementos básicos da Programação**
   
-  3.1. Tipos de Dados (simples e compostos)
-  3.2. Variáveis e Constantes. 
-    3.2.1.Conceitos, declaração e inicialização. 
-    3.2.2.Atribuição de valores. 
-  3.3. Operadores lógicos, aritméticos e relacionais 3.4. Comandos de entrada e saída. 
-  3.5. Comentários no código dos programas. 
-  3.6. Testes de Mesa. 
+  3.1. Tipos de Dados (simples e compostos).   
+  3.2. Variáveis e Constantes.   
+    3.2.1.Conceitos, declaração e inicialização.   
+    3.2.2.Atribuição de valores.   
+  3.3. Operadores lógicos, aritméticos e relacionais.  
+  3.4. Comandos de entrada e saída.   
+  3.5. Comentários no código dos programas.   
+  3.6. Testes de Mesa.   
 
 **4. Paradigma de Programação Estruturada e Introdução à Linguagem C**
   
