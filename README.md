@@ -3,7 +3,7 @@
 Códigos referentes as listas de exercícios da disciplina de Programação - CCF110 (Universidade Federal de Viçosa-UFV).
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjdirOCevDwUhkchnP0Z9hNg4lVseuD0_XxajQCa8gxbYO8IdKhA" width="640">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjdirOCevDwUhkchnP0Z9hNg4lVseuD0_XxajQCa8gxbYO8IdKhA" width="500">
 </p>
 
 ------
