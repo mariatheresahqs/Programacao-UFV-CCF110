@@ -3,7 +3,7 @@
 Códigos referentes as listas de exercícios da disciplina de Programação - CCF110 (Universidade Federal de Viçosa-UFV).
 
 <p align="center">
-  <img src="https://feminismformen.com/wp-content/uploads/2017/04/1-9Q52hvm1giB-OguNUXXAjQ-1024x640.jpeg" width="250">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350">
 </p>
 
 ------
