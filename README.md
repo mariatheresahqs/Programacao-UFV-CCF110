@@ -1,6 +1,6 @@
 ## Programação-UFV-ccf110
 
-Códigos referentes as listas de exercícios da disciplina de Programação - CCF110 (Universidade Federal de Viçosa-UFV).
+Links, pdfs e códigos referentes as disciplinas de "Programação CCF110" - UFV.
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350">
